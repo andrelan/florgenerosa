@@ -1,0 +1,68 @@
+
+MercadoPago - doações florGenerosa
+
+
+# R$ 10,00
+
+link 
+
+ - face e twiter 
+
+https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-beb023dc-be6b-439a-9167-5815dbc6191b
+
+ - site
+
+<a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-beb023dc-be6b-439a-9167-5815dbc6191b" name="MP-payButton" class='red-ar-l-rn-bron'>Doar</a>
+<script type="text/javascript">
+(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+</script>
+
+----------
+
+
+
+
+# R$ 30,00
+
+link 
+
+ - face e twiter 
+
+https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-01690714-ab9a-4ff9-b73e-b899177e6a62
+
+ - site
+
+<a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-01690714-ab9a-4ff9-b73e-b899177e6a62" name="MP-payButton" class='red-ar-l-rn-bron'>Doar</a>
+<script type="text/javascript">
+(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+</script>
+
+----------
+
+R$ 50,00
+
+ - face e twiter 
+
+https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-bec8b615-a269-4a2e-a90f-7fa94ea7343e
+
+ - site
+
+<a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-bec8b615-a269-4a2e-a90f-7fa94ea7343e" name="MP-payButton" class='red-ar-l-rn-bron'>Doar</a>
+<script type="text/javascript">
+(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+</script>
+
+-----------
+
+R$ 100,00
+
+ - face e twiter 
+
+https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-05e05c8a-ab2f-4847-bd87-325cedb538a8
+
+ - site
+
+<a mp-mode="dftl" href="https://www.mercadopago.com/mlb/checkout/start?pref_id=40481877-05e05c8a-ab2f-4847-bd87-325cedb538a8" name="MP-payButton" class='red-ar-l-rn-bron'>Doar</a>
+<script type="text/javascript">
+(function(){function $MPC_load(){window.$MPC_loaded !== true && (function(){var s = document.createElement("script");s.type = "text/javascript";s.async = true;s.src = document.location.protocol+"//secure.mlstatic.com/mptools/render.js";var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);window.$MPC_loaded = true;})();}window.$MPC_loaded !== true ? (window.attachEvent ?window.attachEvent('onload', $MPC_load) : window.addEventListener('load', $MPC_load, false)) : null;})();
+</script>
